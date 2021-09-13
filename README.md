@@ -10,7 +10,7 @@ Dataset MongoDB Al-Qur'an in Bahasa Indonesia
 1. Download/Clone repo
 2. Open terminal and run this command
 ```bash
-mongorestore --db dbname 
+mongorestore --host <database-host> -d <database-name> --port <database-port> foldername
 ```
 3. Done
 
