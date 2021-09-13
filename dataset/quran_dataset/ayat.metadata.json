@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_","ns":"quran_dataset.ayat"}],"uuid":"052f7750e587485082b232a61f489f26"}
