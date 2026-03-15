@@ -1,6 +1,6 @@
 # Quran Dataset MongoDB
 
-Dataset MongoDB Al-Qur'an in Bahasa Indonesia
+Dataset Al-Qur'an in Bahasa Indonesia with MongoDB format
 
 >Thanks to Mas Rio Astamal (@rioastamal) who provide Al-Quran dataset at https://github.com/rioastamal/quran-json
 
